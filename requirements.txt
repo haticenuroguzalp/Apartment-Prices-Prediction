@@ -1,7 +1,7 @@
-streamlit 1.44.1
-pandas 2.2.3
-numpy 1.26.0
+streamlit==1.44.1
+pandas==2.2.3
+numpy==1.26.0
 scikit-learn
-optuna 4.2.1
-lightgbm 4.6.0
+optuna==4.2.1
+lightgbm==4.6.0
 pickle5
